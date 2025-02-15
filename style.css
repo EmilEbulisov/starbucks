@@ -15,3 +15,16 @@ body {
     font-family: "Montserrat", serif;
 
 }
+a {
+    color: #D9D9D9;
+    text-decoration: none;
+}
+.header_li {
+    font-size: 19.17px;
+    list-style-type: none;
+    
+}
+.logo {
+    font-size: 37.6px;
+    font-weight: 800;
+}
