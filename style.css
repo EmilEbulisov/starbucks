@@ -30,11 +30,17 @@ a {
     min-width: 1300px;
     margin: 0 auto;
     padding: 0 15px;
+    display: flex;
+    align-items: flex-end;
 }
 .header_li {
     font-size: 19.17px;
     list-style-type: none;
-    
+    line-height: 23px;
+}
+.header_ul {
+    display: flex;
+    align-items: flex-end;
 }
 .logo {
     font-size: 37.6px;
@@ -45,3 +51,8 @@ a {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.header_nav {
+    top: 48px;
+}
+
+
