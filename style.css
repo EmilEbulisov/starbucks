@@ -33,11 +33,13 @@ a {
     display: flex;
     align-items:center;
     margin-top: 50px;
+    margin-left: 115px;
 }
 .header_li {
     font-size: 19.17px;
     list-style-type: none;
     line-height: 23px;
+    margin-right: 90px;
 }
 .header_ul {
     display: flex;
