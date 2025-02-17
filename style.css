@@ -31,7 +31,8 @@ a {
     margin: 0 auto;
     padding: 0 15px;
     display: flex;
-    align-items: flex-end;
+    align-items:center;
+    margin-top: 50px;
 }
 .header_li {
     font-size: 19.17px;
@@ -40,7 +41,8 @@ a {
 }
 .header_ul {
     display: flex;
-    align-items: flex-end;
+    align-items: center;
+    justify-content: space-between;
 }
 .logo {
     font-size: 37.6px;
@@ -52,7 +54,7 @@ a {
     -webkit-text-fill-color: transparent;
 }
 .header_nav {
-    top: 48px;
+    margin-left: 90px;
+    display: flex;
+    align-items: center;
 }
-
-
